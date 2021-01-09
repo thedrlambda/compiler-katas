@@ -1,7 +1,12 @@
 # compiler-katas
 
+## Introduction
+These are small exercises accompanying chapter 7 of my refactoring book [Five Lines of Code](https://www.manning.com/books/five-lines-of-code). 
+
 ## How to play
 In each source file there is an error described in the top of the file. It is your job to utilize the compiler to expose this error, and fix it.
+
+If any exercises are too difficult to figure out please create an issue for them using the format `[language]/[exercise file] too hard!`. Then we can add more hints to it.
 
 ## How to contribute
 ### A language
