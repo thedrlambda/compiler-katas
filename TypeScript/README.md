@@ -10,7 +10,7 @@
 3. Verify the installation by opening PowerShell (or another console) and running the command `npm --version`
 
 #### Typescript
-1. Open PowerShell and run the command `npm install -g typescript`. This uses NodeJS's Package Manager (npm) to install the typescript compiler, globally (-g).
+1. Open PowerShell and run the command `npm install -g typescript`. This uses NodeJS's Package Manager (`npm`) to install the typescript compiler, globally (`-g`).
 2. Verify the installation by running the command: `tsc --version`
 
 ## How to compile
