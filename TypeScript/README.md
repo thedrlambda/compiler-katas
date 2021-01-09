@@ -2,7 +2,7 @@
 
 ## How to install
 
-### On windows
+### On Windows
 
 #### NodeJS
 1. Go to https://nodejs.org/en/ and download the LTS version.
