@@ -2,7 +2,7 @@
 
 ## Something too difficult?
 
-[Click here to report it](issues/new?title=TypeScript/[file]%20too%20Hard!);
+[Click here to report it](https://github.com/thedrlambda/compiler-katas/issues/new?title=TypeScript/[file]%20too%20Hard!)
 
 ## How to install
 
